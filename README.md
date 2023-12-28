@@ -13,6 +13,8 @@ Feel free to explore each project for detailed code, documentation, and insights
 
 ## Breast cancer Prediction
 The Breast Prediction project is aimed at predicting the likelihood of an individual having Cancer. The dataset for this project is sourced from Kaggle and contains relevant medical information.
+
+## 4. Space ship survival prediction
 ---
 
 **Note:** The README provides a brief overview of the Titanic Survival Prediction and Diabetes Prediction projects, both utilizing datasets from Kaggle.
